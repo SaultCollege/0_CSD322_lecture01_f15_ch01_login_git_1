@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="0_CSD322_lecture01_f15_ch01_login_git_1" default="default" basedir=".">
-    <description>Builds, tests, and runs the project 0_CSD322_lecture01_f15_ch01_login_git_1.</description>
+<project name="0_CSD322_lecture01_f15_ch01_login_git" default="default" basedir=".">
+    <description>Builds, tests, and runs the project 0_CSD322_lecture01_f15_ch01_login_git.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
